@@ -8,8 +8,8 @@ class Post
 {
     private static $blog_posts = [
         [
-            "title" => "Judul Post Pertama",
-            "slug" => "Judul-post-pertama",
+            "title" => "Judul Tulisan Pertama",
+            "slug" => "Judul-tulisan-pertama",
             "author" => "Ardan Herdiansyah",
             "body" => "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta, ex quia. Accusamus ipsam maxime, 
             quidem corrupti assumenda ut quaerat enim optio repellendus ex adipisci pariatur repellat quisquam earum 
@@ -19,8 +19,8 @@ class Post
             perferendis corrupti ipsam, cumque eveniet ad distinctio quod odio minima rem!"
         ], 
         [
-            "title" => "Judul Post Kedua",
-            "slug" => "Judul-post-kedua",
+            "title" => "Judul Tulisan Kedua",
+            "slug" => "Judul-tulisan-kedua",
             "author" => "Riksa Kusumah",
             "body" => "orem ipsum dolor sit amet consectetur adipisicing elit. Similique, natus non eum mollitia 
             molestias laboriosam. Harum, totam autem! Facere inventore, corrupti temporibus, provident obcaecati 
@@ -33,8 +33,8 @@ class Post
             quis in, voluptatum neque enim vero ipsa vel repellat unde, tempore quaerat nostrum? Blanditiis."
         ],
         [
-            "title" => "Judul Post Ketiga",
-            "slug" => "Judul-post-ketiga",
+            "title" => "Judul Tulisan Ketiga",
+            "slug" => "Judul-tulisan-ketiga",
             "author" => "Jagaddhita Arya K",
             "body" => "orem ipsum dolor sit amet consectetur adipisicing elit. Similique, natus non eum mollitia 
             molestias laboriosam. Harum, totam autem! Facere inventore, corrupti temporibus, provident obcaecati 
